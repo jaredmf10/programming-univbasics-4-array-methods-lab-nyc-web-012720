@@ -5,7 +5,6 @@ array = ["wow", 1, 2, 3, "arrays"]
 else
   return false
 end
-end
 
 def using_sort(array)
 array = ["wow", "I", "love" "arrays"]
