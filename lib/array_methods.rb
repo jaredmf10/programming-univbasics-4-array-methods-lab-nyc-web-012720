@@ -24,7 +24,7 @@ array.first
 end
 
 def using_last(array)
-array = ["wow", 1, 2, 3, "arrays"]
+array = ["wow", 1, 2, 3, "arrays!"]
 array.last
 end
 
