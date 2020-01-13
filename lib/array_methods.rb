@@ -14,7 +14,7 @@ sorted_array = array.sort
 end
 
 def using_reverse(array)
-array = ["wow", 1, 2, 3, "arrays"]
+array = ["wow", 1, 2, 3, "arrays!"]
 array.reverse
 end
 
