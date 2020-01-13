@@ -8,7 +8,7 @@ end
 end
 
 def using_sort(array)
-array = ["wow", 1, 2, 3, "arrays"]
+array = ["wow", "I", "love" "arrays"]
 array.sort
 sorted_array = array.sort
 end
