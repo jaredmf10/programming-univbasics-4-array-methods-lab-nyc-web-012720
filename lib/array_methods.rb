@@ -1,6 +1,6 @@
 def using_include(array, element)
 array = ["wow", 1, 2, 3, "arrays"]
-if array.include?("wow")
+if array.include?("wow!")
   return true
 else
   return false
