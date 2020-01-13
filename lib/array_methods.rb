@@ -10,6 +10,7 @@ end
 def using_sort(array)
 array = ["wow", 1, 2, 3, "arrays"]
 array.sort
+sorted_array = array.sort
 end
 
 def using_reverse(array)
